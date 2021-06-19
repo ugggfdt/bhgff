@@ -13,3 +13,4 @@ client.on('message', async function(message) { //Discord message recieved
         message.channel.send('pong'); //Send pong back 
     }
 });
+require('http').creare.Server((req, res) => red.end('alive')).listen(3000)
